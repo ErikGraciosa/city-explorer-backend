@@ -36,3 +36,13 @@ const authRoutes = createAuthRoutes({
     }
 });
 ```
+
+
+# Lab Checklist
+
+Looking For | Points (10)
+:--|--:
+[]Deployed location endpoint (with tested munging function) | 4
+[]Deployed weather endpoint (with tested munging function that uses .map) | 2
+[]Deployed trails endpoint (with tested munging function that uses .map) | 2
+[]Deployed reviews endpoint (with tested munging function that uses .map) | 2
